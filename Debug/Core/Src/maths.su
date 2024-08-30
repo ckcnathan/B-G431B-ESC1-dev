@@ -1,0 +1,6 @@
+../Core/Src/maths.c:12:7:fast_fmaxf	16	static
+../Core/Src/maths.c:17:7:fast_fminf	16	static
+../Core/Src/maths.c:22:7:fmaxf3	24	static
+../Core/Src/maths.c:27:7:fminf3	24	static
+../Core/Src/maths.c:32:7:sin_lut	16	static
+../Core/Src/maths.c:39:7:cos_lut	16	static
